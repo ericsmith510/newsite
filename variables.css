@@ -1,0 +1,14 @@
+:root{
+    --color-main:#2699FB;
+    --color-secondary:#DA6808;
+	--color-secondary-opacity:rgba(218, 104, 8, 0.3);
+	
+    --color-footer: #200E00;
+	--color-copyright:#150900;
+
+    --color-white:#fff;
+    --color-gray:#808080;
+	--color-gray-reduced: #bfbfbf;
+    --color-black:#000;
+
+}
